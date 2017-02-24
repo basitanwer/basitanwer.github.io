@@ -80,7 +80,6 @@ Happy writing!
 
 Got a question? Visit <http://www.texts.io/>.
 
-{% include twitter_plug.html %}
 
 Footer
 ======
