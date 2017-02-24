@@ -1,5 +1,6 @@
 ---
 title: Texts + GitHub Pages = Blog
+comments: True
 ---
 
 Follow simple [instructions](<http://www.texts.io/support/0017/>) to publish
@@ -78,3 +79,5 @@ Happy writing!
 ==============
 
 Got a question? Visit <http://www.texts.io/>.
+
+{% include twitter_plug.html %}
