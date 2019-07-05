@@ -3,6 +3,8 @@ title: Game Physics Engine (Book Excerpt) - In Progress
 comments: True
 ---
 
+![](https://images.pexels.com/photos/373892/pexels-photo-373892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
 # Introduction
 
 In this book we’ll cover a representative sample of physics tasks.With a gradually more comprehensive technology suite, our physics enginewill support particle effects, flight simulation, car physics, crates, destructible objects, cloth, and ragdolls, along
