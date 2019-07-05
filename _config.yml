@@ -20,4 +20,4 @@ defaults:
     values:
       layout:       post
 
-theme: jekyll-theme-minima
+theme: minima
