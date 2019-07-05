@@ -2,6 +2,7 @@ title:              Basit Anwer
 tagline:            Engineer, Programmer, Geek and Gamer
 description:        Discussion everything tech related.
 url:                http://basitanwer.github.io
+google_analytics:   [ Your Google Analytics tracking ID]
 
 author:
   name:             Basit Anwer
@@ -19,4 +20,4 @@ defaults:
     values:
       layout:       post
 
-theme: jekyll-theme-cayman
+theme: minima
