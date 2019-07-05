@@ -1,5 +1,5 @@
 ---
-title: Game Physics Engine (Book Excerpt)
+title: Game Physics Engine (Book Excerpt) - In Progress
 comments: True
 ---
 
