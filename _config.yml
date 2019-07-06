@@ -20,4 +20,5 @@ defaults:
     values:
       layout:       post
       
-theme: jekyll-theme-clean-blog
+theme: jekyll-theme-minimal
+
